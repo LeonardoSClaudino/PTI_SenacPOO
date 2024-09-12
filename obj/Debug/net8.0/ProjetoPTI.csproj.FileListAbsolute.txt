@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\bin\Debug\net8.0\ProjetoPTI.exe
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\bin\Debug\net8.0\ProjetoPTI.deps.json
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\bin\Debug\net8.0\ProjetoPTI.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\bin\Debug\net8.0\ProjetoPTI.dll
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\bin\Debug\net8.0\ProjetoPTI.pdb
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.dll
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\refint\ProjetoPTI.dll
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.pdb
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ProjetoPTI.genruntimeconfig.cache
+C:\Users\SAMSUNG\Desktop\PTI - POO\ProjetoPTI\obj\Debug\net8.0\ref\ProjetoPTI.dll
